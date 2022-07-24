@@ -44,9 +44,12 @@
 <a href="https://github.com/NikhilMehara/BeautyBebo">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilMehara&repo=BeautyBebo&File&theme=react" />
 </a>
+<a href="https://github.com/NikhilMehara/adorable-crown-8253">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilMehara&repo=adorable-crown-8253&theme=react" />
+</a>
 <a href="https://github.com/NikhilMehara/overstock-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilMehara&repo=overstock-clone&theme=react" />
-  </a>
+</a>
   
 <br />
 <br />
