@@ -40,7 +40,9 @@
   
   ### ⚡Top Repositories
 
-
+<a href="https://github.com/NikhilMehara/clockifyClone-fixedThread">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilMehara&repo=clockifyClone-fixedThread&theme=react" />
+</a>
 <a href="https://github.com/NikhilMehara/BeautyBebo">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilMehara&repo=BeautyBebo&File&theme=react" />
 </a>
