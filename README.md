@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nikhil Mehara</h1>
 <p align="center">
-<img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="Nikhil Mehra" width="700px" height="400px" />
+<img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="Nikhil Mehra" width="600px" height="350px" />
  </p>
-<h3 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development.My mission is to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡.</br>I love to explore new technologies and leverage them to solve real-life problems.</h3>
+<h3 align="center">An aspiring full-stack web developer and creative coder who specializes in MERN stack development. My mission is to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡.</br>I love to explore new technologies and leverage them to solve real-life problems.</h3>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN+Stack;Full+Stack+Web+Developer"></a>
 </p>
